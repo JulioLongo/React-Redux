@@ -1,0 +1,4 @@
+npm install -g json-server
+
+// Iniciar o simulador de json
+json-server server.json -p 3333
